@@ -1,1 +1,1 @@
-# Python-zel-notlar
+# Python ozel-notlar
