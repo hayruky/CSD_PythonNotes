@@ -1,1 +1,2 @@
-# Python ozel-notlar
+# Python notes
+
